@@ -5,7 +5,7 @@ Esse é um modelo de Curriculum vitae Online com minhas informações.
 ##
 ![](assets/img/tela-1.png)
 ##
-![](assets/img/tela-1.png)
+![](assets/img/tela-2.png)
 
 ## 🚀 Começando
 
