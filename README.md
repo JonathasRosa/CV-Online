@@ -32,22 +32,22 @@ O projeto foi construido com
 
 ## 📌 Versão
 
-Uso o [Git](https://git-scm.com/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/JonathasRosa/Ecommerce-PizzAqui).
+Uso o [Git](https://git-scm.com/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/JonathasRosa/CV-Online).
 
 ## ✒️ Autores
 
 * **Um desenvolvedor** - *Trabalho Inicial* - [Jonathas Rosa](https://github.com/JonathasRosa)
 ## Redes sociais
 
-Linkedin - [JonathasRosa](https://www.linkedin.com/in/jonathasrosa85/) - jonathasrosa85@gmail.com
+Linkedin - [JonathasRosa](https://www.linkedin.com/in/jonathasrosa85/)
 ##
-Instagram - [@jonathas_rosa85](https://www.instagram.com/jonathas_rosa85/) - jonathasrosa85@gmail.com
+Instagram - [@jonathas_rosa85](https://www.instagram.com/jonathas_rosa85/)
 
 ## Licença
 
 Distribuído sobre a licença. Veja `MIT License` para mais informações.
 
-[https://jonathasrosa.github.io/Ecommerce-PizzAqui/](https://github.com/JonathasRosa)
+[https://jonathasrosa.github.io/CV-Online/](https://github.com/JonathasRosa)
 
 ## 🎁 Expressões de gratidão
 
