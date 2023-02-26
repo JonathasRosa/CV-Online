@@ -39,9 +39,9 @@ Uso o [Git](https://git-scm.com/) para controle de versão. Para as versões dis
 * **Um desenvolvedor** - *Trabalho Inicial* - [Jonathas Rosa](https://github.com/JonathasRosa)
 ## Redes sociais
 
-Jonathas Rosa - [JonathasRosa](https://www.linkedin.com/in/jonathasrosa85/) - jonathasrosa85@gmail.com
+Linkedin - [JonathasRosa](https://www.linkedin.com/in/jonathasrosa85/) - jonathasrosa85@gmail.com
 ##
-Jonathas Rosa - [@jonathas_rosa85](https://www.instagram.com/jonathas_rosa85/) - jonathasrosa85@gmail.com
+Instagram - [@jonathas_rosa85](https://www.instagram.com/jonathas_rosa85/) - jonathasrosa85@gmail.com
 
 ## Licença
 
