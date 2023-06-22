@@ -9,7 +9,7 @@ Esse é um modelo de Curriculum vitae Online com minhas informações.
 
 ## 🚀 Começando
 
-Este projeto tem intenção de divulgar meu Curriculum vitae e portifólio que está linkado no CV-online
+Este projeto tem intenção de divulgar meu Curriculum vitae e portfólio que está linkado no CV-online
 
 ## Ambiente de Desenvolvimento
 
@@ -24,9 +24,9 @@ JavaScript para desenvolver a lógica.
 
 ## 🛠️ Construído com
 
-O projeto foi construido com 
+O projeto foi construído com 
 
-* [HTML5](https://www.w3c.br/Cursos/CursoHTML5) - Estutura do projeto.
+* [HTML5](https://www.w3c.br/Cursos/CursoHTML5) - Estrutura do projeto.
 * [CSS3](https://www.w3c.br/Cursos/CursoCSS3/) - Styles do projeto.
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - É a linguagem usada para gerar a interação do projeto.
 
@@ -51,7 +51,7 @@ Distribuído sobre a licença. Veja `MIT License` para mais informações.
 
 ## 🎁 Expressões de gratidão
 
-* Você gosstou do projeto? 
+* Você gostou do projeto? 
 * Conte a outras pessoas sobre este projeto 📢;
 * Convide alguém da equipe para uma cerveja 🍺;
 * Agradeço publicamente a minha esposa Ingrid Mendez que me incentivou nessa jornada e a todas as outras pessoas que participaram do processo, desde os que me apresentaram a programação e todos os professores;
